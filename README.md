@@ -228,4 +228,4 @@ pharmaguard/
 
 ## Disclaimer
 
-PharmaGuard is a clinical decision support tool for research and educational purposes. Results must be interpreted by qualified healthcare professionals. Not for standalone clinical use.
+DrugSenseAI is a clinical decision support tool for research and educational purposes. Results must be interpreted by qualified healthcare professionals. Not for standalone clinical use.
