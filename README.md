@@ -195,7 +195,7 @@ Respond ONLY with valid JSON:
 ## Project Structure
 
 ```
-pharmaguard/
+drugsenseai/
 ├── backend/
 │   ├── main.py          # FastAPI app, routes
 │   ├── parser.py        # VCF parsing engine
