@@ -3,7 +3,7 @@ import json
 import httpx
 from typing import Dict, Any
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "sk-abcdef1234567890abcdef1234567890abcdef12")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "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")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 
 LLM_PROMPT_TEMPLATE = """You are a clinical pharmacogenomics expert AI assistant.
