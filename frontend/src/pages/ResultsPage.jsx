@@ -128,7 +128,7 @@ export default function ResultsPage({ results, onReset }) {
       {/* Footer note */}
       <div className="mt-8 p-4 rounded-lg bg-slate-900/40 border border-slate-800/40 text-center">
         <p className="text-xs text-slate-600 leading-relaxed">
-          PharmaGuard is a clinical decision support tool. Results should be interpreted by qualified healthcare professionals.
+          DrugSense-AI is a clinical decision support tool. Results should be interpreted by qualified healthcare professionals.
           Pharmacogenomic data is one factor among many in prescribing decisions.
         </p>
       </div>
