@@ -16,7 +16,7 @@ from llm_service import get_llm_explanation
 from schemas import AnalysisResult, MultiDrugResult
 
 app = FastAPI(
-    title="PharmaGuard API",
+    title="DrugSense API",
     description="Pharmacogenomic Risk Prediction System",
     version="1.0.0"
 )
@@ -37,7 +37,7 @@ SUPPORTED_DRUGS = list(DRUG_GENE_MAP.keys())
 async def health_check():
     return {
         "status": "healthy",
-        "service": "PharmaGuard API",
+        "service": "DrugSense API",
         "version": "1.0.0",
         "supported_drugs": SUPPORTED_DRUGS,
         "supported_genes": list(set(DRUG_GENE_MAP.values())),
