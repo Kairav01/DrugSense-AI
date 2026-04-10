@@ -2,6 +2,7 @@
 Pharmacogenomic Risk Prediction System Precision Medicine Algorithm for Personalized Drug Safety.
 
 ## Live Site
+[DrugSense-AI Live Site](https://drugsense-ai.vercel.app/)
 
 
 ### Prerequisites
